@@ -3,6 +3,8 @@
 This repository contains the code for the paper "Screening Rules for Lasso with Non-Convex Sparse Regularizers" published at ICML 2019, Long Beach.
 
 The current version of the paper is available at https://arxiv.org/pdf/1902.06125.pdf
+For abstract, bibliography (.bib), you can look at http://proceedings.mlr.press/v97/rakotomamonjy19a.html
+
 
 this repository is still in construction.
 
